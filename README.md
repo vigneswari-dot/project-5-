@@ -83,3 +83,7 @@ The classification is based on blood pressure, sugar level, and cholesterol valu
 ## Conclusion
 
 The Healthcare Data Analysis project provides valuable insights into patient health metrics through statistical analysis and visualizations. By classifying patients into risk categories and analyzing relationships between health parameters, the project demonstrates the practical application of data science techniques in the healthcare domain.
+<img width="560" height="413" alt="WhatsApp Image 2026-06-03 at 10 30 46 AM" src="https://github.com/user-attachments/assets/822b9992-fc42-4ae8-bd61-6aadde8d79a3" />
+<img width="560" height="474" alt="WhatsApp Image 2026-06-03 at 10 30 55 AM" src="https://github.com/user-attachments/assets/f93f0de8-824e-404c-93a5-825d9a8bd253" />
+<img width="552" height="413" alt="WhatsApp Image 2026-06-03 at 10 31 03 AM" src="https://github.com/user-attachments/assets/f87f58c8-0ad6-4c41-82b8-e38d57875be8" />
+<img width="607" height="510" alt="WhatsApp Image 2026-06-03 at 10 31 22 AM" src="https://github.com/user-attachments/assets/ee3b9065-e634-4198-989c-5bd1fa57de59" />
